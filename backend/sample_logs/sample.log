@@ -1,0 +1,4 @@
+2024-12-01T10:00:00 INFO Application started successfully.
+2024-12-01T10:05:23 WARNING Low memory warning.
+2024-12-01T10:10:00 ERROR Unable to connect to database.
+2024-12-01T10:15:12 INFO User logged in.
