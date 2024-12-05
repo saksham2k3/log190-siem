@@ -1,0 +1,20 @@
+{
+    "name": "log190-siem-tool",
+    "version": "1.0.0",
+    "description": "Log190 Advanced SIEM Tool Frontend",
+    "main": "src/index.js",
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.4.1",
+      "chart.js": "^4.0.1",
+      "react-chartjs-2": "^5.0.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    }
+  }
+  
